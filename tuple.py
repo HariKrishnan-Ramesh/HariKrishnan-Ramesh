@@ -9,3 +9,8 @@ print(tuple2)
 #creating with mixed datatypes
 tuple3 = (101, "Anirban", 2002, "HR Dept")
 print(tuple3)
+
+
+#---------------------------------------------------------
+
+#creation of nested tuples
