@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Go/Backend](https://github.com/HariKrishnan-Ramesh/Go-Backend.git)
 
-- 🌱 I’m currently learning <p><a href="https://golang.google.cn/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUTc3wwVFk4RrsQHsAafyJYQOkKwrb7WSIiQ&s" alt="c" width="40" height="40"/> </a></p> 
+- 🌱 I’m currently learning <p><a href="https://golang.google.cn/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg" alt="c" width="40" height="40"/> </a></p> 
 
 - 👨‍💻 All of my projects are available at [https://github.com/HariKrishnan-Ramesh?tab=repositories](https://github.com/HariKrishnan-Ramesh)
 
