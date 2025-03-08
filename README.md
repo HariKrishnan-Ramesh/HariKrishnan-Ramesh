@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Go, Python**
 
-- 📫 How to reach me **harikrishnaramesh777@gmail.com**
+- 📫 How to reach me [MailId](harikrishnaramesh777@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
