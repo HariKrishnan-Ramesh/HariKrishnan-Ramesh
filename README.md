@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Go/Backend](https://github.com/HariKrishnan-Ramesh/Go-Backend.git)
 
-- 👨‍💻 All of my projects are available at [https://github.com/HariKrishnan-Ramesh?tab=repositories](https://github.com/HariKrishnan-Ramesh)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/HariKrishnan-Ramesh?tab=repositories)
 
 - 💬 Ask me about **Go, Python**
 
