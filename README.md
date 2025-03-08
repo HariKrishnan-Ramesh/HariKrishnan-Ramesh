@@ -16,10 +16,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="www.linkedin.com/in/harikrishna-ramesh-821277239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harikrishna-ramesh" height="30" width="40" /></a>
-  
-<a href="[https://www.hackerrank.com/@harikrishnarame2](https://www.hackerrank.com/profile/harikrishnarame2)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@harikrishnarame2" height="30" width="40" /></a>
-
-<a href="https://github.com/HariKrishnan-Ramesh?tab=repositories" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://cdn.iconscout.com/icon/free/png-256/free-github-logo-icon-download-in-svg-png-gif-file-formats--brandico-font-pack-logos-icons-450532.png)" alt="harikrishna-ramesh" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@harikrishnarame2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@harikrishnarame2" height="30" width="40" /></a>
+<a href="https://github.com/HariKrishnan-Ramesh?tab=repositories" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harikrishna-ramesh" height="30" width="40" /></a>
   
 </p>
 
