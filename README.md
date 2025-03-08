@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harikrishna Ramesh</h1>
-<h3 align="center">A passionate Software Developer who loves Web Development, Backend Engineering, Open Source, etc. I'm on a journey to grow, create, and contribute to amazing projects! 🚀</h3>
+<h3 align="center">A passionate Software Developer who loves Web Development, Backend Engineering, Open Source.🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harikrishnan-ramesh&label=Profile%20views&color=0e75b6&style=flat" alt="harikrishnan-ramesh" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Go, Laravel**
 
-- 👨‍💻 All of my projects are available at [https://github.com/HariKrishnan-Ramesh?tab=repositories](https://github.com/HariKrishnan-Ramesh?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/HariKrishnan-Ramesh?tab=repositories](https://github.com/HariKrishnan-Ramesh)
 
 - 💬 Ask me about **Go, Python**
 
@@ -15,8 +15,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/harikrishna-ramesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harikrishna-ramesh" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@harikrishnarame2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@harikrishnarame2" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/harikrishna-ramesh-821277239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harikrishna-ramesh" height="30" width="40" /></a>
+  
+<a href="[https://www.hackerrank.com/@harikrishnarame2](https://www.hackerrank.com/profile/harikrishnarame2)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@harikrishnarame2" height="30" width="40" /></a>
+
+<a href="https://github.com/HariKrishnan-Ramesh?tab=repositories" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://cdn.iconscout.com/icon/free/png-256/free-github-logo-icon-download-in-svg-png-gif-file-formats--brandico-font-pack-logos-icons-450532.png)" alt="harikrishna-ramesh" height="30" width="40" /></a>
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
