@@ -17,7 +17,7 @@
 <p align="left">
 <a href="www.linkedin.com/in/harikrishna-ramesh-821277239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harikrishna-ramesh" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@harikrishnarame2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@harikrishnarame2" height="30" width="40" /></a>
-<a href="https://github.com/HariKrishnan-Ramesh?tab=repositories" target="blank"><img align="center" src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_960_720.png" alt="harikrishna-ramesh" height="30" width="40" /></a>
+<a href="https://github.com/HariKrishnan-Ramesh?tab=repositories" target="blank"><img align="center" src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_960_720.png" alt="harikrishna-ramesh" height="35" width="45" /></a>
   
 </p>
 
