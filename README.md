@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Go/Backend](https://github.com/HariKrishnan-Ramesh/Go-Backend.git)
 
-- 🌱 I’m currently learning  **Go, Python**
+- 🌱 I’m currently learning  **Gin, Laravel**
 
 - 👨‍💻 All of my projects are available at [https://github.com/HariKrishnan-Ramesh?tab=repositories](https://github.com/HariKrishnan-Ramesh)
 
