@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harikrishnan-ramesh&label=Profile%20views&color=0e75b6&style=flat" alt="harikrishnan-ramesh" /> </p>
 
-- 🔭 I’m currently working on [Go/Backend](https://github.com/HariKrishnan-Ramesh/Go-Backend.git)
+- 🌱 I’m currently learning  <a href="https://golang.google.cn/" target="_blank" rel="noreferrer"> <img src="https://github.com/gin-gonic/logo/blob/master/color.svg" alt="c" width="40" height="40"/>
 
-- 🌱 I’m currently learning  **Gin, Laravel**
+- 🔭 I’m currently working on [Go/Backend](https://github.com/HariKrishnan-Ramesh/Go-Backend.git
 
 - 👨‍💻 All of my projects are available at [https://github.com/HariKrishnan-Ramesh?tab=repositories](https://github.com/HariKrishnan-Ramesh)
 
