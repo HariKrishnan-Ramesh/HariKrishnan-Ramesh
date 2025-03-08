@@ -11,7 +11,9 @@
 
 - 💬 Ask me about **Go, Python**
 
-- 📫 How to reach me [MailId](harikrishnaramesh777@gmail.com)
+- 📫 <a href="mailto:harikrishnaramesh777@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
