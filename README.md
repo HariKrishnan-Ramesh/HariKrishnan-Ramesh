@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning  <a href="https://github.com/gin-gonic" target="_blank" rel="noreferrer"> <img src="https://github.com/gin-gonic/logo/blob/master/color.svg" alt="c" width="40" height="40"/> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 
-- 🔭 I’m currently working on [Go/Backend](https://github.com/HariKrishnan-Ramesh/Go-Backend.git
+- 🔭 I’m currently working on [Go/Backend](https://github.com/HariKrishnan-Ramesh/Go-Backend.git)
 
 - 👨‍💻 All of my projects are available at [https://github.com/HariKrishnan-Ramesh?tab=repositories](https://github.com/HariKrishnan-Ramesh)
 
