@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harikrishnan-ramesh&label=Profile%20views&color=0e75b6&style=flat" alt="harikrishnan-ramesh" /> </p>
 
-- 🌱 I’m currently learning  <a href="https://github.com/gin-gonic" target="_blank" rel="noreferrer"> <img src="https://github.com/gin-gonic/logo/blob/master/color.svg" alt="c" width="40" height="40"/> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+- 🌱 I’m currently learning  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
 
 - 🔭 I’m currently working on [Go/Project-Second](https://github.com/HariKrishnan-Ramesh/Go-Project-second.git)
 
