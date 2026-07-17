@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
 
-- 🔭 I’m currently working on [Go/Project-Second](https://github.com/HariKrishnan-Ramesh/Go-Project-second.git)
-
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/HariKrishnan-Ramesh?tab=repositories)
 
 - 💬 Ask me about **Go, Python**
