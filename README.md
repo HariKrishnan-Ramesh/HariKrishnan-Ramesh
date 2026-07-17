@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/HariKrishnan-Ramesh?tab=repositories)
 
-- 💬 Ask me about **Go, Python**
+- 💬 Ask me about **Python**
 
 - 📫 <a href="mailto:harikrishnaramesh777@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
